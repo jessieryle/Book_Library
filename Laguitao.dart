@@ -22,7 +22,7 @@ class Customer {
 }
 
 displayOptions() {
-  print("********* BOOK LIBRARY **********");
+  print("********* E-LIBRARY **********");
   print("PRESS: ");
   print("1: Add Book ");
   print("Genres Available: ");
